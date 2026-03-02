@@ -6,7 +6,7 @@ Com certeza. Aqui está o conteúdo formatado em Markdown, pronto para ser copia
 
 ## 📋 Sobre o Projeto
 
-Este aplicativo é o resultado do **Projeto Integrado (PI)** do 1º Trimestre de 2026 do curso de **Ciência da Computação da UNIFEOB**. O objetivo central é fornecer uma interface de comunicação eficaz entre usuários e ecossistemas de **Internet das Coisas (IoT)**, utilizando Inteligência Artificial Generativa local (_Edge AI_) para orquestração de dispositivos.
+Este aplicativo é o resultado do **Projeto Integrado (PI)** do 1º Semestre de 2026 do curso de **Ciência da Computação da UNIFEOB**. O objetivo central é fornecer uma interface de comunicação eficaz entre usuários e ecossistemas de **Internet das Coisas (IoT)**, utilizando Inteligência Artificial Generativa local (_Edge AI_) para orquestração de dispositivos.
 
 O projeto foi concebido sob a premissa de atividade extensionista, focando em atender demandas de automação residencial e de pequenos comércios na cidade de **São João da Boa Vista/SP**, priorizando a privacidade do cidadão e a resiliência tecnológica.
 
