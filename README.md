@@ -1,8 +1,4 @@
-Com certeza. Aqui está o conteúdo formatado em Markdown, pronto para ser copiado e colado diretamente no seu arquivo `README.md` na raiz do repositório do GitHub.
-
 # SmartEdge IoT: Orquestrador de Redes Inteligentes com IA Generativa de Borda
-
-!([https://img.shields.io/badge/Status-Em%20Desenvolvimento-green](https://www.google.com/search?q=https://img.shields.io/badge/Status-Em%2520Desenvolvimento-green))
 
 ## 📋 Sobre o Projeto
 
@@ -94,9 +90,3 @@ flutter run
 ---
 
 _Este software é open-source sob a licença MIT._
-
-```
-
-Isto já inclui a estrutura de cabeçalhos, badges e o detalhamento técnico do **Plano A (Edge AI)** que desenvolvemos. Deixei os espaços para os nomes da equipe prontos para preenchimento. Esqueci de algo que você gostaria de incluir?
-
-```
